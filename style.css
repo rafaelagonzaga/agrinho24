@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #201f1f50;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #af4c59;
     color: white;
     text-align: center;
     padding: 1rem 0;
